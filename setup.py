@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from distutils.core import setup
 setup(
- name='{project-name}',
+ name='{Game_of_Life}',
  version='1.0',
  author='{gdevoivre}',
  license='MIT',
