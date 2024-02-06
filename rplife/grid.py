@@ -1,7 +1,7 @@
 import collections
 
-ALIVE = "*"
-DEAD = "‧"
+ALIVE = "¤"
+DEAD = "*"
 
 
 class LifeGrid:
